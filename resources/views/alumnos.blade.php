@@ -3,9 +3,9 @@
 
 <!--Crear el contenido del titulo para que sea insertado en la estructura "app"-->
 @section('titulo')
-    Pagina principal
+    Alumnos
 @endsection
 
 @section('contenido')
-    Este es el contenido de la pagina
+    Este es el contenido de la pagina de alumnos
 @endsection
